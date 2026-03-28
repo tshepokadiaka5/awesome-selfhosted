@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Production Ready Pyrex Platform"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/pyrex-funding-hub.git
+git push -u origin main
